@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\repor-sitorio-123tt\\oto trabaio (task)\\oto trabaio (task).csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\mobile-01\\beck\\oto trabaio (task).csproj",
       "projectName": "oto trabaio (task)",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\repor-sitorio-123tt\\oto trabaio (task)\\oto trabaio (task).csproj",
+      "projectPath": "C:\\Users\\Aluno\\mobile-01\\beck\\oto trabaio (task).csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\repor-sitorio-123tt\\oto trabaio (task)\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\mobile-01\\beck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

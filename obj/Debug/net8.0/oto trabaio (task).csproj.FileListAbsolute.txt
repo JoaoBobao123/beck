@@ -32,3 +32,37 @@ C:\Users\Aluno\Desktop\repor-sitorio-123tt\oto trabaio (task)\obj\Debug\net8.0\o
 C:\Users\Aluno\Desktop\repor-sitorio-123tt\oto trabaio (task)\obj\Debug\net8.0\oto trabaio (task).genruntimeconfig.cache
 C:\Users\Aluno\Desktop\repor-sitorio-123tt\oto trabaio (task)\obj\Debug\net8.0\ref\oto trabaio (task).dll
 C:\Users\Aluno\Desktop\repor-sitorio-123tt\oto trabaio (task)\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\oto trabaio (task).exe
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\oto trabaio (task).deps.json
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\oto trabaio (task).runtimeconfig.json
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\oto trabaio (task).dll
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\oto trabaio (task).pdb
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\mobile-01\beck\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).csproj.AssemblyReference.cache
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).AssemblyInfoInputs.cache
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).AssemblyInfo.cs
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).csproj.CoreCompileInputs.cache
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).sourcelink.json
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets\msbuild.oto trabaio (task).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets\msbuild.build.oto trabaio (task).props
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.oto trabaio (task).props
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.oto trabaio (task).props
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\scopedcss\bundle\oto trabaio (task).styles.css
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trab.D1A010E7.Up2Date
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).dll
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\refint\oto trabaio (task).dll
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).pdb
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\oto trabaio (task).genruntimeconfig.cache
+C:\Users\Aluno\mobile-01\beck\obj\Debug\net8.0\ref\oto trabaio (task).dll
